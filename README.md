@@ -7,7 +7,7 @@
     1. psql -d news -f newsdata.sql
     2. psql -d news
     3. pip3 install psycopg2
-  4. pip3 install pycodestyle
+    4. pip3 install pycodestyle
 4. To see tool results run python3 tool.py
 5. To check using a standerd style run pycodestyle --first tool.py
 
